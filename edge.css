@@ -1,0 +1,110 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins"
+}
+.heading
+{
+    text-align: center;
+}
+.heading h1
+{
+    color: #3b3465;
+}
+.heading p
+{
+    color: #fd6600;
+}
+.main
+{
+    border: 2px solid green;
+    width: 25%;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 5px 5px 5px grey;
+    margin: 0 1rem;
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 90%;
+    margin-top: 30px;
+    
+}
+
+.main h1{
+    color:#fd6600 ;
+}
+.container2
+{
+    display: flex;
+    justify-content: space-around;
+    margin-top:30px 20px;
+    padding: 30px;
+     width: 90%;
+     justify-content: center
+}
+.span
+{
+    border: 2px solid red;
+    width: 25%;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 5px 5px 5px grey;
+    margin: 0 1rem;
+    
+}
+.container3
+{
+    display: flex;
+    justify-content: space-around;
+    /* margin-top:30px 20px; */
+    /* padding: 30px; */
+      /* width: 90%; */
+     justify-content: center;
+     margin-top: 10px
+}
+.span h1{
+    background-color: #3b3465;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 20px;
+    margin: 10px 0
+    
+}
+.span h2{
+    color: #fd6600;
+    font-size: 20px;
+
+}
+.span h3
+{
+    color: #3b3465;
+    margin: 15px 0
+}
+.span i{padding-top:10px;
+border: 2px solid red;
+border-radius: 50%;
+width: 70px;
+height:70px;
+color: red;
+    font-size:40px;
+}
+span.fa-brands.fa-wordpress {
+    font-size:50px;
+    border:2px solid red;
+     border-radius:50%;
+     height: 70px;
+     width:70px;
+     padding-top:10px;
+     color: red;
+
+    
+}
+   
