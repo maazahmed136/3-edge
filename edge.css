@@ -78,7 +78,9 @@
     border-radius: 20px;
     color: #fff;
     font-size: 20px;
-    margin: 10px 0
+    margin: 10px 0;
+    transition: all 400ms;
+
     
 }
 .span h2{
@@ -112,5 +114,8 @@ span.fa-brands.fa-wordpress {
 }
 .span h1:hover{
     background-color: red;
+}
+.content{
+    height: 90%;
 }
    
